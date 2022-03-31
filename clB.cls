@@ -1,2 +1,1 @@
-clLOLasse b
-
+clLOLasse b RESOLVED
