@@ -1,1 +1,1 @@
-class a from prod
+claaass a from prod
