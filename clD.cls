@@ -1,1 +1,1 @@
-class D
+clCinflict here prof relass D
