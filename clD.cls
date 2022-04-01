@@ -1,1 +1,1 @@
-class D
+cProd Conflictlass D
